@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Senior+Fullstack+Developer+%26+Tech+Lead;Python+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+React;Building+AI-powered+products+since+2023;13%2B+years+shipping+software+from+Hu%E1%BA%BF%2C+Vietnam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Senior+Fullstack+Developer+%26+Tech+Lead;Python+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+React;Built+LaxLnk+from+MVP+to+4%2C000%2B+users;Building+AI-powered+products;13%2B+years+shipping+software+from+Hu%E1%BA%BF%2C+Vietnam" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,7 @@
 
 I'm a fullstack engineer who grew from writing code into leading teams and owning technical direction. For 13+ years I've built websites, mobile backends, and AI-powered products for clients in the **US, Korea, and Japan**.
 
+- 🥍 Took **[LaxLnk](https://laxlnk.com)** from MVP to a stable, revenue-generating app with **4,000+ real users**
 - 🧭 **Tech Lead / PM** for **30+ delivered projects**, with teams of 3–12 developers
 - 🌱 Helped grow an engineering team from **10 to 30 people**, from web into mobile
 - 🚀 Backend for **Mindset**, an app that raised **$8M** and reached **700K+ users**
@@ -28,6 +29,7 @@ I'm a fullstack engineer who grew from writing code into leading teams and ownin
 
 ### What I'm working on
 
+- 🥍 **[LaxLnk](https://laxlnk.com)**: *"Your link to lacrosse."* An iOS & Android app for players, parents, coaches, and clubs: social profiles, verified rosters, team messaging, scheduling, clinics, and payments. Now scaling club management with **LaxLnk+**
 - 🛠️ **[TechMe](https://techme.wimi.dev)**: async, text-only tech support. Astro on Cloudflare Workers, Supabase, PayPal
 - 🎬 **[YouTube](https://www.youtube.com/@WinNguyenTechMe)**: plain-language tutorials on websites, hosting, and AI tools like Claude Code
 - 🧪 **[FastAPI-Fullstack-DaisyUI](https://github.com/khacnha/FastAPI-Fullstack-DaisyUI)**: a production-ready FastAPI + HTMX + Tailwind v4 + DaisyUI v5 starter
@@ -89,6 +91,7 @@ I'm a fullstack engineer who grew from writing code into leading teams and ownin
 
 | When | Role | Company |
 |---|---|---|
+| now | Built from MVP to production: 4,000+ users, paying clubs | **[LaxLnk](https://laxlnk.com)** |
 | 2025 – now | Team Leader (part-time) | **ViSafe** |
 | 2024 – 2025 | Senior Developer (remote): AI-powered web apps, Python + React | **PatternX** |
 | 2024 | Fullstack Developer: Japanese clients, code review | **Hopee** |
@@ -125,5 +128,5 @@ I'm a fullstack engineer who grew from writing code into leading teams and ownin
 ---
 
 <p align="center">
-  💬 Open to <b>remote</b> roles and freelance work: backend, fullstack, tech lead, or AI integration. Say hi on <a href="https://www.linkedin.com/in/khacnha/">LinkedIn</a>.
+  💬 Building something for sports clubs, or need a tech lead who ships? Say hi on <a href="https://www.linkedin.com/in/khacnha/">LinkedIn</a>.
 </p>

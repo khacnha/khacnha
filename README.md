@@ -19,7 +19,7 @@
 
 I'm a fullstack developer and technical leader who builds end-to-end systems: from database design and APIs to React frontends, cloud infrastructure, and AI features. In 13+ years I've worked on **50+ projects** for clients in the **US, Korea, and Japan**, and I care most about clean architecture, performance, and systems that stay maintainable as they grow.
 
-- 🥍 Took **[LaxLnk](https://laxlnk.com)** from MVP to a stable, revenue-generating app with **4,000+ real users**
+- 🥍 As freelance developer, helped take **[LaxLnk](https://laxlnk.com)** from MVP to a stable, revenue-generating app with **4,000+ real users**: I own the Django API and web
 - 🧭 **Tech Lead / PM** for **30+ delivered projects**, with teams of 3–12 developers
 - 🌱 Helped grow an engineering team from **10 to 30 people**, from web into mobile
 - 🚀 Backend for **Mindset**, an app that raised **$8M** and reached **700K+ users**
@@ -29,7 +29,7 @@ I'm a fullstack developer and technical leader who builds end-to-end systems: fr
 
 ### What I'm working on
 
-- 🥍 **[LaxLnk](https://laxlnk.com)**: *"Your link to lacrosse."* An iOS & Android app for players, parents, coaches, and clubs: social profiles, verified rosters, team messaging, scheduling, clinics, and payments. Now scaling club management with **LaxLnk+**
+- 🥍 **[LaxLnk](https://laxlnk.com)**: *"Your link to lacrosse."* An iOS & Android app for players, parents, coaches, and clubs: social profiles, verified rosters, team messaging, scheduling, clinics, and payments. I build the **Django API** and web, and work directly with the client on product and feature decisions. Stack: Django · Flutter · Framer. Now scaling club management with **LaxLnk+**
 - 🛠️ **[TechMe](https://techme.wimi.dev)**: async, text-only tech support. Astro on Cloudflare Workers, Supabase, PayPal
 - 🎬 **[YouTube](https://www.youtube.com/@WinNguyenTechMe)**: plain-language tutorials on websites, hosting, and AI tools like Claude Code
 - 🧪 **[FastAPI-Fullstack-DaisyUI](https://github.com/khacnha/FastAPI-Fullstack-DaisyUI)**: a production-ready FastAPI + HTMX + Tailwind v4 + DaisyUI v5 starter
@@ -58,6 +58,7 @@ I'm a fullstack developer and technical leader who builds end-to-end systems: fr
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -94,7 +95,7 @@ I'm a fullstack developer and technical leader who builds end-to-end systems: fr
 | When | Role | Company |
 |---|---|---|
 | Jan 2026 – now | **Senior System Engineer** | **MM Espoir Corporation** |
-| now | Took the product from MVP to production: 4,000+ users, paying clubs | **[LaxLnk](https://laxlnk.com)** |
+| now | **Freelance Developer**: Django API & web, feature consulting with the client; MVP → production, 4,000+ users, paying clubs | **[LaxLnk](https://laxlnk.com)** |
 | Jun 2024 – Oct 2025 | **Back End Developer / AI Engineer** (remote, US): AI article generation from documents, ML entity matching, PySpark blocking for big data, HA deployment on AWS | **PatternX** |
 | Aug 2019 – May 2024 | **Technical Leader / PM**: 30+ projects for Korean & US clients, Laravel / Node.js / Django, AWS, CI/CD | **Viet Information Technology Project** |
 | Jul 2016 – Jun 2019 | **Team Lead**: PHP (Laravel, WordPress), REST APIs, React & React Native | **HueSoft** |

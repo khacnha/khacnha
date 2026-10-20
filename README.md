@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/khacnha/"><img src="https://img.shields.io/badge/LinkedIn-khacnha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@WinNguyenTechMe"><img src="https://img.shields.io/badge/YouTube-Win%20Nguyen%20TechMe-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://techme.wimi.dev"><img src="https://img.shields.io/badge/Website-techme.wimi.dev-111111?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:khacnha.it@gmail.com"><img src="https://img.shields.io/badge/Email-khacnha.it%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:winnguyen.techdev@gmail.com"><img src="https://img.shields.io/badge/Email-winnguyen.techdev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---

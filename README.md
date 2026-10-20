@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Senior+Fullstack+Developer+%26+Tech+Lead;Python+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+React;Built+LaxLnk+from+MVP+to+4%2C000%2B+users;Building+AI-powered+products;13%2B+years+shipping+software+from+Hu%E1%BA%BF%2C+Vietnam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Senior+System+Engineer+%40+MM+Espoir;Fullstack+Developer+%26+Technical+Leader;Python+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+React;Built+LaxLnk+from+MVP+to+4%2C000%2B+users;Building+AI-powered+products;13%2B+years+shipping+software+from+Hu%E1%BA%BF%2C+Vietnam" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,13 +17,13 @@
 
 ### About me
 
-I'm a fullstack engineer who grew from writing code into leading teams and owning technical direction. For 13+ years I've built websites, mobile backends, and AI-powered products for clients in the **US, Korea, and Japan**.
+I'm a fullstack developer and technical leader who builds end-to-end systems: from database design and APIs to React frontends, cloud infrastructure, and AI features. In 13+ years I've worked on **50+ projects** for clients in the **US, Korea, and Japan**, and I care most about clean architecture, performance, and systems that stay maintainable as they grow.
 
 - 🥍 Took **[LaxLnk](https://laxlnk.com)** from MVP to a stable, revenue-generating app with **4,000+ real users**
 - 🧭 **Tech Lead / PM** for **30+ delivered projects**, with teams of 3–12 developers
 - 🌱 Helped grow an engineering team from **10 to 30 people**, from web into mobile
 - 🚀 Backend for **Mindset**, an app that raised **$8M** and reached **700K+ users**
-- 🤖 Today: AI integration (LLMs, document-to-article generation, ML entity matching, handwritten math recognition)
+- 🤖 AI engineering: LLM & RAG features, document-to-article generation, ML entity matching with PySpark blocking for big data
 - ⚡ Cut API response times by **80%** through code and MySQL optimization
 - 🏆 Employee of the Year 2017 & 2018 (HueSoft) · Best Leader of the Year 2021 & 2022 (Viet IT Project)
 
@@ -67,6 +67,8 @@ I'm a fullstack engineer who grew from writing code into leading teams and ownin
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
@@ -85,21 +87,20 @@ I'm a fullstack engineer who grew from writing code into leading teams and ownin
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Practices:** Clean Architecture · SOLID & Design Patterns · System Design · CI/CD · Scrum/Agile · Stripe & PayPal integrations
+**Practices:** RAG · Microservices & message queues · Clean Architecture · SOLID & Design Patterns · System Design · CI/CD · Scrum/Agile · Stripe & PayPal integrations
 
 ### Experience
 
 | When | Role | Company |
 |---|---|---|
-| now | Built from MVP to production: 4,000+ users, paying clubs | **[LaxLnk](https://laxlnk.com)** |
-| 2025 – now | Team Leader (part-time) | **ViSafe** |
-| 2024 – 2025 | Senior Developer (remote): AI-powered web apps, Python + React | **PatternX** |
-| 2024 | Fullstack Developer: Japanese clients, code review | **Hopee** |
-| 2019 – 2024 | Technical Leader / PM: 30 projects, Laravel & Django, AWS, CI/CD | **Viet Information Technology Project** |
-| 2016 – 2019 | Fullstack Developer / Leader: 20+ web & 4 React Native apps | **HueSoft Corporation** |
-| 2012 – 2016 | Web Fullstack Developer | **ViviCorp**, Đà Nẵng |
+| Jan 2026 – now | **Senior System Engineer** | **MM Espoir Corporation** |
+| now | Took the product from MVP to production: 4,000+ users, paying clubs | **[LaxLnk](https://laxlnk.com)** |
+| Jun 2024 – Oct 2025 | **Back End Developer / AI Engineer** (remote, US): AI article generation from documents, ML entity matching, PySpark blocking for big data, HA deployment on AWS | **PatternX** |
+| Aug 2019 – May 2024 | **Technical Leader / PM**: 30+ projects for Korean & US clients, Laravel / Node.js / Django, AWS, CI/CD | **Viet Information Technology Project** |
+| Jul 2016 – Jun 2019 | **Team Lead**: PHP (Laravel, WordPress), REST APIs, React & React Native | **HueSoft** |
+| Oct 2012 – Jun 2016 | **PHP Developer**: websites, e-commerce, web apps | **ViviCorp**, Đà Nẵng |
 
-🎓 B.Sc. Information Technology, Hue University of Sciences
+🎓 Bachelor's degree in Informatics, University of Sciences, Hue University (2007–2011)
 
 ### Open source
 
